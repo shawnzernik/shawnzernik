@@ -9,6 +9,6 @@ shawnzernik/shawnzernik is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
+[Lago Vista Technologies LLC](https://github.com/LagoVistaTechLLC)
 
 [Eclipse Settings](./Eclipse Preferences.epf)
